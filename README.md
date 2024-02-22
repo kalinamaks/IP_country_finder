@@ -1,0 +1,1 @@
+This script goes to the RIPE resource, which provides a list of ASNs, IPv4 prefixes and IPv6 prefixes in JSON
